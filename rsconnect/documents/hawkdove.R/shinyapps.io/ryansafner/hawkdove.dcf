@@ -1,0 +1,13 @@
+name: hawkdove
+title: hawkdove
+username:
+account: ryansafner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9090794
+bundleId: 7206124
+url: https://ryansafner.shinyapps.io/hawkdove/
+when: 1683837682.3694
+lastSyncTime: 1683837682.36941
+asMultiple: FALSE
+asStatic: FALSE
